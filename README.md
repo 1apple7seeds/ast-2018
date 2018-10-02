@@ -6,7 +6,7 @@ Introductory course for software technology.
 
 Students attending:
 1. ---
-2. --- 
+2. ---
 3. ---
 4. ---
 5. ---
@@ -18,7 +18,7 @@ Students attending:
 11. ---
 12. ---
 13. ---
-14. ---
+14. Carlo Andre Wiesse Lazarte
 15. ---
 16. ---
 17. ---
@@ -26,4 +26,3 @@ Students attending:
 19. ---
 20. ---
 21. ---
-
